@@ -1,0 +1,26 @@
+h1{text-align: center;}
+h1{color: brown;}
+
+p{margin-left: 9%}
+p{font-size: 200%;}
+
+#janis1{width: 40%;}
+#janis1{margin-left: 9%;}
+#janis1{border: solid;}
+
+#janis2{width: 29%;}
+#janis2{margin-left: 5%;}
+#janis2{border: solid;}
+
+#janis3{width: 40%;}
+#janis3{margin-top: 2%;}
+#janis3{margin-left: 9%;}
+#janis3{border: solid;}
+
+#janis4{width: 38%;}
+#janis4{margin-left: 5%;}
+#janis4{border: solid;}
+
+body{
+    background-color: lightsalmon;
+}

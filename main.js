@@ -1,0 +1,1 @@
+alert("Janis Joplin, uma das rainhas do rock!");
